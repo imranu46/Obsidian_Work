@@ -11,10 +11,14 @@
             "id": "ee56c958def5700f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -108,7 +112,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": false,
+            "file": "README.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -161,6 +168,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee56c958def5700f",
-  "lastOpenFiles": []
+  "active": "9dceef0665129a3c",
+  "lastOpenFiles": [
+    "Hello world new.md"
+  ]
 }
